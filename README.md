@@ -32,7 +32,7 @@ It contains 14 attributes:
 The `heartDesease.ipynb` notebook contains the following sections:
 
 - **Imports**: Loading necessary libraries.
-- **Data Loading & Preprocessing**: Reading the dataset, handling missing values, converting data types, creating the target variable, and splitting data.
+- **Data Loading & Preprocessing**: Reading the dataset, handling missing values, converting data types, creating the target variable and splitting data.
 - **Exploratory Data Analysis (EDA)**: Visualizing feature distributions and correlations.
 - **Model Comparison**: Training and evaluating Logistic Regression, Random Forest and XGBoost models and comparing their test set accuracy 
 - **XGBoost Model Tuning**: Using `GridSearchCV` to find optimal hyperparameters for XGBoost.
@@ -41,12 +41,6 @@ The `heartDesease.ipynb` notebook contains the following sections:
 
 
 # Results Summary
-
-Several classification models were trained and evaluated:
-
-- **Logistic Regression** (with `StandardScaler`)
-- **Random Forest** (with `n_estimators=200`)
-- **XGBoost** (tuned with `GridSearchCV`)
 
 Based on the validation set accuracy from this run:
 
