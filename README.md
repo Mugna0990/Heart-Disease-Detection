@@ -35,10 +35,9 @@ The `heartDesease.ipynb` notebook contains the following sections:
 - **Data Loading & Preprocessing**: Reading the dataset, handling missing values, converting data types, creating the target variable and splitting data.
 - **Exploratory Data Analysis (EDA)**: Visualizing feature distributions and correlations.
 - **Model Comparison**: Training and evaluating Logistic Regression, Random Forest and XGBoost models and comparing their test set accuracy 
-- **XGBoost Model Tuning**: Using `GridSearchCV` to find optimal hyperparameters for XGBoost.
 - **Random Forest Model Tuning**: Using `GridSearchCV` to find optimal hyperparameters for XGBoost.
+- **XGBoost Model Tuning**: Using `GridSearchCV` to find optimal hyperparameters for XGBoost.
 - **Error Analysis**: Visualizing misclassified samples
-
 
 # Results Summary
 
@@ -46,6 +45,6 @@ Based on the validation set accuracy from this run:
 
 - **Basic Logistic Regression:** 0.8333
 - **Basic Random Forest:**       0.8500
-- **Basic XGBoost:**            0.8667
+- **Basic XGBoost:**             0.8667
 - **Tuned XGBoost:**             0.8667
 - **Tuned Random Forest:**       0.8333
