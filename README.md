@@ -27,7 +27,7 @@ It contains 14 attributes:
 13. thal: (3 = normal; 6 = fixed defect; 7 = reversable defect)
 14. target: diagnosis of heart disease (angiographic disease status) (0: < 50% diameter narrowing, 1: > 50% diameter narrowing - corresponds to labels 1,2,3,4 in original dataset)
 
-# Project Structure
+## Project Structure
 
 The `heartDesease.ipynb` notebook contains the following sections:
 
@@ -39,7 +39,7 @@ The `heartDesease.ipynb` notebook contains the following sections:
 - **XGBoost Model Tuning**: Using `GridSearchCV` to find optimal hyperparameters for XGBoost.
 - **Error Analysis**: Visualizing misclassified samples
 
-# Results Summary
+## Results Summary
 
 Based on the validation set accuracy from this run:
 
