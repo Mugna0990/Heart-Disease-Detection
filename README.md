@@ -1,8 +1,8 @@
-# Heart Disease Prediction
+# Heart Disease Detection
 
 ## Overview
 
-This project aims to predict the presence of heart disease in patients using the Cleveland heart disease dataset. It explores the data through Exploratory Data Analysis (EDA), preprocesses the data, and builds several models (Logistic Regression, Random Forest, XGBoost) to classify patients. The models are tuned using GridSearchCV and evaluated based on accuracy and other classification metrics.
+This project aims to Predict the presence of heart disease in patients building several models (Logistic Regression, Random Forest, XGBoost) to classify patients.
 
 ## Dataset
 
