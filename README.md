@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to Predict the presence of heart disease in patients building several models (Logistic Regression, Random Forest, XGBoost) to classify patients.
+This project aims to Predict the presence of heart disease in patients building several models (Logistic Regression, Random Forest, XGBoost).
 
 ## Dataset
 
